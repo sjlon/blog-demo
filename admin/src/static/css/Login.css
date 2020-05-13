@@ -1,0 +1,17 @@
+.login-div{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+.login-div:after{
+    display: inline-block;
+    content: '';
+    height: 100%;
+    vertical-align: middle;
+}
+.login-card{
+    width: 400px;
+    vertical-align: middle;
+    display: inline-block;
+}
