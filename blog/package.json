@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "antd": "^4.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "highlight.js": "^9.18.1",
     "lodash": "^4.17.15",
     "markdown-navbar": "^1.4.0",
